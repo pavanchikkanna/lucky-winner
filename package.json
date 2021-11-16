@@ -1,6 +1,6 @@
 {
   "name": "lucky-winner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A JS module for picking K random names from an array of N names.",
   "main": "index.js",
   "scripts": {
